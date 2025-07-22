@@ -92,4 +92,4 @@ This project is open-source and free to use under the MIT License
 MEMBERS:
        1)ARYAN JAKKAL
        2)GOURIPRASAD TUMMA
-       3)ARYA HARIDAS
+       3)VAISHNAV MAHINDRAKAR
